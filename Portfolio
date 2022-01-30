@@ -1,0 +1,34 @@
+<!DOCTYPE>
+<html>
+<head> 
+    <body> 
+    <h1>Lisa´s Portfolio</h1>
+    <h2>Hi, i am Lisa! A German/Nigerian living in the UK since 2019, former Airforce Soldier and aspiring frond end developer! Listed below are projects i am working on for the next 3 months</h2>
+<title> Lisa Rucker</title>
+<ol> Javascript group project</ol>
+<ol> React project</ol>
+<ol> Node project</ol>
+<ol>MongoDB project</ol>
+<ol> Personal project: Gym (healthier, stronger body)</ol>
+<ul>FUN FACTS ABOUT ME</ul>
+<ul>if i could eat only one meal my whole life it would be Burritos</ul>
+<ul>my favourite hobbys are table tennis, basketball and all about playstation</ul>
+<ul>my next travel destination will be Thailand</ul>
+<q> one of my favourite Quotes;"Imagination is more important than knowledge. Knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." - Albert Einstein </q>
+<button>Instagram: Liza.Balboa</button>
+<button>GitHub: LisaRuc</button>
+<button>Discord: blackcodher</button>
+<img src="https://www.google.com/search?q=liza.balboa&tbm=isch&ved=2ahUKEwjY_OL139n1AhUGmhoKHT38CCYQ2-cCegQIABAA&oq=liza.balboa&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1DECFidDGDVEGgAcAB4AIABc4gBugKSAQMxLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Kan2YZjEK4a0ar34o7AC&bih=739&biw=1536&client=firefox-b-e#imgrc=cszRe3ABDtvcbM">
+</body>
+<style>
+    body {background-color: rgb(46, 46, 109);}
+    h1 {color: green;}
+    h2 {font-family: Calibri;}
+    button {color: yellow;}
+    ol {font-size: medium;}
+    ul {font-size: medium;}
+    img src {font-weight: 300;}
+    </style>
+</head>
+</html>
+</!DOCTYPE>
